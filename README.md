@@ -1,0 +1,1 @@
+# CLI toolkit for visualizing and forecasting weather data
